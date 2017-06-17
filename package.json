@@ -1,11 +1,14 @@
 {
-  "name": "ui-theme-template",
+  "name": "atom-80s-ui",
   "theme": "ui",
   "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "description": "An 80's inspired theme.",
   "keywords": [
     "ui",
-    "theme"
+    "theme",
+    "80s",
+    "80's",
+    "retro"
   ],
   "repository": "https://github.com/atom-community/ui-theme-template",
   "license": "MIT",
@@ -13,3 +16,4 @@
     "atom": ">=1.0.0 <2.0.0"
   }
 }
+ 
